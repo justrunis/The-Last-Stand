@@ -162,4 +162,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 581162363331986434}
-  moveSpeed: 2
+  moveSpeed: 10
